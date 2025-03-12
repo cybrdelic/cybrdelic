@@ -1,51 +1,109 @@
-# Hi, I'm cybrdelic
+# Hey, I'm cybrdelic
 
-I'm a full-stack developer with a thing for automation – building systems that work for me (and, by extension, everyone else). I love experimenting with Rust, JavaScript, Python, and anything that lets me push code boundaries.
+I'm a full-stack dev who’s all about building systems that practically run themselves. Here’s a deeper dive into my projects and *how* they work.
 
-## Projects I'm Proud Of
+---
 
-- **JJugg**  
-  *Autonomous Job Application Tracker*  
-  Tracks your job applications automatically. Think of it as your personal job-hunting assistant.
+## Projects
 
-- **Myriad.ai**  
-  *Intelligent Code Copilot*  
-  Helps you navigate massive codebases with smart, AI-driven insights.
+### JJugg – Autonomous Job Application Tracker
 
-- **CommitAura**  
-  *AI-Powered Commit Message Generator*  
-  Generates clear, context-aware commit messages so you don’t have to.
+**What it does:**
+Automates job application tracking so you can focus on your hustle.
 
-- **Resumatyk**  
-  *AI Resume Management TUI*  
-  A Bash-powered tool that uses fzf and LaTeX to create tailored, professional resumes.
+**How it works:**
+- **Email Scanning:** Monitors your inbox to detect application updates and interview invites.
+- **LocalStorage Integration:** Persists application data on the client, ensuring real-time tracking without server overhead.
+- **Interactive Dashboard:** Uses dynamic, data-driven UIs to present analytics and statuses.
 
-- **Cybrdelic Portfolio**  
-  *Interactive Developer Portfolio*  
-  A dynamic showcase that brings together all my projects and experiments.
+**Tech Stack:** JavaScript, HTML, CSS, localStorage, userscripts
 
-- **Browsealizer**  
-  *GitHub Project Explorer*  
-  An endless scroll of curated GitHub projects to spark inspiration.
+---
 
-## Work in Progress
+### Myriad.ai – Intelligent Code Copilot
 
-At **TalentNow**, I've been evolving my skills:
-- **Associate Software Developer (Dec 2021 - Feb 2025):**  
-  Built full-stack apps, managed microservices, and created interactive UIs.
-- **Software Engineer (Feb 2025 - Present):**  
-  Focused on internal tooling and automation – keeping everything smooth and efficient.
+**What it does:**
+Helps you navigate sprawling codebases with AI-driven contextual insights.
 
-## What I’m Into
+**How it works:**
+- **Natural Language Querying:** Process your plain-English queries to locate code segments.
+- **Context Memory:** Maintains session context so you get relevant results even after multiple queries.
+- **AI-Powered Indexing:** Uses the Claude API to generate a smart, contextual index of your code.
 
-- **Languages:** Rust, JavaScript, Python, Bash, etc.  
-- **Frameworks & Tools:** Axum, Tera, and other frameworks that keep me on the cutting edge.  
-- **Passions:** Decentralized systems, AI, and turning chaos into elegant code.
+**Tech Stack:** Rust, Claude API, NLP techniques
 
-## Get in Touch
+---
+
+### CommitAura – AI-Powered Commit Message Generator
+
+**What it does:**
+Generates concise, context-aware commit messages based on your git diffs.
+
+**How it works:**
+- **Diff Analysis:** Scans git diffs to extract meaningful changes.
+- **Smart Parsing:** Leverages async routines and custom diff parsing to understand code shifts.
+- **API Integration:** Uses the Claude API for natural language processing, turning diffs into clean commit messages.
+
+**Tech Stack:** Rust, Git integration, async runtimes
+
+---
+
+### Resumatyk – AI Resume Management TUI
+
+**What it does:**
+Streamlines the creation, editing, and formatting of professional resumes right from your terminal.
+
+**How it works:**
+- **TUI Navigation:** Uses Bash and fzf to navigate resume sections with ease.
+- **Automated LaTeX Generation:** Transforms your data into polished, print-ready LaTeX resumes.
+- **OCR & Recursive QA:** Integrates OCR to extract content from images and uses LLM-based recursive queries to fine-tune formatting.
+
+**Tech Stack:** Bash, fzf, LaTeX, Python (for AI integration)
+
+---
+
+### Cybrdelic Portfolio – Interactive Developer Showcase
+
+**What it does:**
+Presents my projects in a dynamic, interactive web experience.
+
+**How it works:**
+- **Dynamic Routing & Server-Side Rendering:** Powered by Axum and Tera for fast, modular content delivery.
+- **Markdown-Driven Documentation:** Uses markdown files to generate rich, maintainable project pages.
+- **Interactive Frontend:** Combines Rust backend magic with modern JavaScript for smooth UI interactions.
+
+**Tech Stack:** Rust, Axum, Tera, JavaScript, CSS
+
+---
+
+### Browsealizer – GitHub Project Explorer
+
+**What it does:**
+Offers an endless, mobile-optimized feed of curated GitHub projects to fuel your inspiration.
+
+**How it works:**
+- **GitHub API Integration:** Fetches real-time project data directly from GitHub.
+- **Client-Side Filtering & Infinite Scroll:** Implements robust filtering with a smooth, continuous scrolling experience using React.
+- **Responsive Design:** Built with TypeScript and modern CSS to ensure performance on any device.
+
+**Tech Stack:** React, TypeScript, CSS, GitHub API
+
+---
+
+## Tech Stack Overview
+
+- **Languages:** Rust, JavaScript, Python, Bash, and more
+- **Frameworks & Tools:** Axum, Tera, React, fzf
+- **Interests:** Automation, AI, decentralized systems, and self-evolving code
+
+---
+
+## Let's Connect
 
 - **Email:** [cybrvybe@gmail.com](mailto:cybrvybe@gmail.com)
 - **GitHub:** [cybrdelic](https://github.com/cybrdelic)
 - **PyPI:** [cybrvybe](https://pypi.org/user/cybrvybe/)
 
-Thanks for stopping by. Let's build something awesome.
+---
+
+Every project is built with the goal of cutting down manual effort and pushing the boundaries of automation. If you dig deep enough, you'll see that there's a lot more under the hood than what meets the eye.
