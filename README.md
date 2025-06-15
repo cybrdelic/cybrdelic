@@ -1,6 +1,8 @@
-# Hey, I'm cybrdelic
+i’m a full-stack dev building perception, cognition, automation, and simulation technologies to exponentiate my output. 
 
-I’m a full-stack dev who’s been on a wild ride building systems that practically run themselves. Over the years, I've been deep in the trenches with Rust, JavaScript, Python, and a bunch of other tools—pushing the limits of what automation can do. My projects aren’t just code; they're crafted experiments designed to turn tedious tasks into autonomous processes. Whether it’s tracking job applications, navigating sprawling codebases, or generating smart commit messages, each project is a deliberate step toward a future where technology adapts to you. Check out my work on [GitHub](https://github.com/cybrdelic) and see the revolution in motion.
+i have a lot of experience with full-stack development - both professional and on my personal projects. 
+also love math, physics, data science, etc. 
+obsessed with creating the future. always have been.
 
 ---
 
