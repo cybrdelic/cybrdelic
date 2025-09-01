@@ -9,16 +9,7 @@ plenty of experience with full-stack development - both professional and on my p
 ### [JJugg](https://github.com/cybrdelic/jjugg) – Autonomous Job Application Tracker
 
 **What it does:**
-Automates job application tracking so you can focus on the hustle.
-
-**How it works:**
-- **Email Scanning:** Monitors your inbox for application updates and interview invites.
-- **LocalStorage Integration:** Persists application data on the client, ensuring real-time tracking without the need for heavy server-side processes.
-- **Interactive Dashboard:** Presents dynamic analytics and statuses that update live as your applications progress.
-
-**Links:**
-- [GitHub Repo](https://github.com/cybrdelic/jjugg)
-- [Live Demo](https://jjugg.example.com)
+Automates job application tracking using userscipt form capture, ETL via LLM integration, email ingestion via LLMs and IMAP integration, and custom dashboards and grid web application, and 
 
 ---
 
@@ -26,12 +17,6 @@ Automates job application tracking so you can focus on the hustle.
 
 **What it does:**
 Uses Playwright and a custom compositioning engine using Three js to automate user flows and capture cinematic teaser trailers in a video format for marketing purposes
-
-**How it works:**
-
-
-**Links:**
-- [GitHub Repo](https://github.com/cybrdelic/demosnap)
 
 ---
 
