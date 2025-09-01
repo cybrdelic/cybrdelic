@@ -22,19 +22,16 @@ Automates job application tracking so you can focus on the hustle.
 
 ---
 
-### [Myriad.ai](https://github.com/cybrdelic/myriad) – Intelligent Code Copilot
+### [Demosnap](https://github.com/cybrdelic/demosnap) – Automated Cinematic Teaser Trailer Creation for Web Applications
 
 **What it does:**
-Assists you in navigating massive codebases with AI-driven contextual insights.
+Uses Playwright and a custom compositioning engine using Three js to automate user flows and capture cinematic teaser trailers in a video format for marketing purposes
 
 **How it works:**
-- **Natural Language Querying:** Processes plain-English queries to pinpoint relevant code segments quickly.
-- **Context Memory:** Retains session context to deliver follow-up results that are on point.
-- **AI-Powered Indexing:** Leverages the Claude API to build a smart, contextual index that makes searching seamless.
+
 
 **Links:**
-- [GitHub Repo](https://github.com/cybrdelic/myriad)
-- [Crates.io](https://crates.io/crates/myriad)
+- [GitHub Repo](https://github.com/cybrdelic/demosnap)
 
 ---
 
