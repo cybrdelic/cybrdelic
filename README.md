@@ -9,7 +9,7 @@ plenty of experience with full-stack development - both professional and on my p
 ### [JJugg](https://github.com/cybrdelic/jjugg) – Autonomous Job Application Tracker
 
 **What it does:**
-Automates job application tracking using userscipt form capture, ETL via LLM integration, email ingestion via LLMs and IMAP integration, and custom dashboards and grid web application, and 
+Automates job application tracking using userscipt form capture, ETL via LLM integration, email ingestion via LLMs and IMAP integration, and custom dashboards and grid web application.
 
 ---
 
