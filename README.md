@@ -1,7 +1,6 @@
-full-stack dev building perception, cognition, automation, and simulation technologies to exponentiate my output. 
+full-stack dev building perception, cognition, automation, and simulation technologies to exponentiate my output
 
-plenty of experience with full-stack development - both professional and on my personal projects. also love math, physics, data science, etc. obsessed with creating the future. always have been.
-
+Interested in bringing AAA graphics, hollywood quality VFX, and scientific/engineering quality simulations to the browser. 
 ---
 
 ## Projects
