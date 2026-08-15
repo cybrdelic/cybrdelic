@@ -1,6 +1,5 @@
-full-stack dev building perception, cognition, automation, and simulation technologies to exponentiate my output
+full-stack dev building graphics, perception, cognition, automation, and simulation technologies to exponentiate my output
 
-Interested in bringing AAA graphics, hollywood quality VFX, and scientific/engineering quality simulations to the browser. 
 ---
 
 ## Projects
