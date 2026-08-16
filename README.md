@@ -2,7 +2,7 @@
 
 Software engineer working across production web infrastructure, native applications, GPU computing, computer vision, and simulation.
 
-My production work includes analytics over 200M+ rows and authentication shared across five services. Independently, I build native Windows software, rendering and physics systems, perception pipelines, and developer tools.
+My production work at my day job includes analytics over 200M+ rows and authentication shared across five services. Independently, I build native Windows software, rendering and physics systems, perception pipelines, and developer tools.
 
 ## Selected work
 
