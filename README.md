@@ -10,8 +10,6 @@ My production work at my day job includes analytics over 200M+ rows and authenti
 - [**IRIS Ω**](https://github.com/cybrdelic/iris-omega) — converts monocular machine video into a metric articulated world model while keeping measured geometry, appearance support, completion priors, and unknown space separate.
 - [**Filelight Explorer**](https://github.com/cybrdelic/filelight-explorer) — native Windows file explorer written in C with a custom UI surface, deep file previews, and D3D11 GLB inspection.
 - [**Twin Engine**](https://github.com/cybrdelic/twin-engine) — computational hardware and digital-twin work spanning drones, mechatronics, dynamics, validation, deterministic geometry, and offline rendering.
-- [**Instatic**](https://github.com/cybrdelic/Instatic) — self-hosted visual CMS for building and publishing static sites with structured content, users, roles, and plugins.
-- [**Native FireSim**](https://github.com/cybrdelic/native-firesim) — native Windows CUDA fire and smoke simulation with isolated GPU workers, shared-memory volume streaming, and explicit failure handling.
 
 I work primarily in C, C++, TypeScript, Python, Rust, and GPU APIs including D3D11, CUDA, and WebGPU.
 
