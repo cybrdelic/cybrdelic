@@ -1,0 +1,253 @@
+{
+  "description": "Real rendered media selected for the profile. GIFs are faithful time excerpts/downscales, not fabricated animation. Original project licenses and notices remain unchanged.",
+  "assets": [
+    {
+      "title": "GREEN TERROR / rainforest bark and climber study",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 334778,
+        "sha256": "b65bdf3d7a0009e7c9d0b6edd81752876ab96b7b6bd6e9d79418aef9725cbbda",
+        "width": 1200,
+        "height": 900,
+        "frames": 1
+      },
+      "limits": "Project family visually identified; exact revision unverified.",
+      "file": "rainforest-bark-climber.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "GREEN TERROR / rainforest understory study",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 219181,
+        "sha256": "85eb85d322ba727a4fa715fc8017754aa68113c8a6529d76a409448c54c2d7ba",
+        "width": 1200,
+        "height": 801,
+        "frames": 1
+      },
+      "limits": "Project family visually identified; exact revision unverified. Not V14 completion.",
+      "file": "rainforest-understory.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Chrome robotic-arm render",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 59623,
+        "sha256": "59ec9ddb3699e198c5d76d9d42ebc98f93dc340ad59c878b1a64f454c2e7851d",
+        "width": 1200,
+        "height": 675,
+        "frames": 1
+      },
+      "limits": "ARX-style arm; exact project/version unverified. Do not substitute P5 black-white film as same revision.",
+      "file": "robotic-arm-chrome.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Victorville Road / DR daylight study",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 267711,
+        "sha256": "67a415f202321f88ef59bc874193c5096e4750a4db730b00984de665a4468bfb",
+        "width": 1200,
+        "height": 800,
+        "frames": 1
+      },
+      "limits": "2000x1334 user supplied render; visually later than public CQ. Source family documented in cybr-scenes.",
+      "file": "victorville-road-dr.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Isla Vista / lagoon overlook",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 79417,
+        "sha256": "dcd2f0f09070e911a2a78a0ba87eabc3e91097b6acf7bac0fb7e35e5d416f76d",
+        "width": 600,
+        "height": 420,
+        "frames": 1
+      },
+      "limits": "Visually matches public lagoon-overlook-connected-bank_600_32.png; encoded file hash differs.",
+      "file": "isla-vista-lagoon-overlook.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Isla Vista / UCSB Lagoon wide study",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 149440,
+        "sha256": "3eace4bc8974fd695f910842c5beaa213b7d3922247eb42af111d9ae31acbef6",
+        "width": 1000,
+        "height": 700,
+        "frames": 1
+      },
+      "limits": "Project identified visually; exact historical revision unverified.",
+      "file": "isla-vista-lagoon-wide.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Procedural textile / fiber closeup",
+      "kind": "still",
+      "ready_stats": {
+        "bytes": 310520,
+        "sha256": "e29f58fae418a6018c399fcc52c4297c48ef647de274d75de89276a170b12cbc",
+        "width": 900,
+        "height": 900,
+        "frames": 1
+      },
+      "limits": "Exact project and material version unverified; do not label as current CYBR MATERIAL linen recipe.",
+      "file": "textile-fiber-closeup.jpg",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Volumetric cloud flythrough",
+      "kind": "animation",
+      "ready_stats": {
+        "bytes": 3677120,
+        "sha256": "e48be915f6817e86e4baea0eeab507d93eaa84519bc0f69be76f753dd09175f8",
+        "width": 480,
+        "height": 270,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "Actual decoded video frames. GIF is reduced size/framerate; cloud excerpt first 6 seconds, fire full 4 seconds. Exact source revision unverified. No manufactured motion.",
+      "file": "cloud-flythrough.gif",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "Fire and smoke study",
+      "kind": "animation",
+      "ready_stats": {
+        "bytes": 2858197,
+        "sha256": "1850058eeb761a3ff8861fa389692d4943904f0916671dd22bac9e894c60f35f",
+        "width": 270,
+        "height": 480,
+        "frames": 48,
+        "duration_seconds": 4.0
+      },
+      "limits": "Actual decoded video frames. GIF is reduced size/framerate; cloud excerpt first 6 seconds, fire full 4 seconds. Exact source revision unverified. No manufactured motion.",
+      "file": "fire-smoke.gif",
+      "source": "Owner-provided historical render/film. Exact revision is stated only where established."
+    },
+    {
+      "title": "CYBR ELEMENTS air 02",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-air-02.mp4",
+      "ready_stats": {
+        "bytes": 701561,
+        "sha256": "5e0482ff24e986d34aaff3e2dc0d8a385ded15b6933da49200de968c6acde52e",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-air-02.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS earth 02 r6",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-earth-02-r6.mp4",
+      "ready_stats": {
+        "bytes": 700096,
+        "sha256": "22e599257d169249d59c39d6060ea82d356882befca1a41d646e91750605ff35",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-earth-02-r6.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS fire 02",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-fire-02.mp4",
+      "ready_stats": {
+        "bytes": 715259,
+        "sha256": "8c8d3eae579172ddc475f88306bd5503769d2bfc47171b55af112ee6171da043",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-fire-02.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS ice 02",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-ice-02.mp4",
+      "ready_stats": {
+        "bytes": 522703,
+        "sha256": "7863aa00550e38af3ecefb1560b93394fb88168b9e21c5beec682f4c3a56f1a5",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-ice-02.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS lava 02",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-lava-02.mp4",
+      "ready_stats": {
+        "bytes": 533750,
+        "sha256": "7935a4969b15b22ed0cdf0cc2b8c55eed6b0cb40805df98fdb3d7d2292a2fa5e",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-lava-02.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS lightning 02 r5",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-lightning-02-r5.mp4",
+      "ready_stats": {
+        "bytes": 1013016,
+        "sha256": "5ed661248a18678f42d330da1db94a0e60254c79d816ada9e28be14fbfb0a8e6",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-lightning-02-r5.gif"
+    },
+    {
+      "title": "CYBR ELEMENTS water 02 r8",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-portfolio/main/portfolio/assets/play-elements-water-02-r8.mp4",
+      "ready_stats": {
+        "bytes": 825622,
+        "sha256": "42fbc9a4ab589ea080bb62e1f12146614068023d897a834dc58389166c0300b9",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "play-elements-water-02-r8.gif"
+    },
+    {
+      "title": "telekinesis 02 r4",
+      "kind": "animation",
+      "source_url": "https://raw.githubusercontent.com/cybrdelic/cybr-elements/master/outputs/cybrdelic-type/elements/motion/bending/sigils/02/telekinesis-02-r4.mp4",
+      "ready_stats": {
+        "bytes": 1095898,
+        "sha256": "5c4941cd6d73f5b508cb159f41fca0269c2d7e953307718b1e1823c5c6c89dc3",
+        "width": 400,
+        "height": 225,
+        "frames": 60,
+        "duration_seconds": 6.0
+      },
+      "limits": "First 6 seconds of real offline film, reduced to 400x225 at 10fps. Rendered elemental artwork, not proof of live or validated physics. Preserve repository GPL-2.0 and third-party notices.",
+      "file": "telekinesis-02-r4.gif"
+    }
+  ]
+}
